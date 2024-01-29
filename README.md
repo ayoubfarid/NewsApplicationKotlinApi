@@ -39,9 +39,3 @@ Link : https://newsapi.org/
 
 
 
-
-## Contribute to the project
-
-Feel free to improve or add features to the project.
-Create an issue or find the pending issue. All pull requests are welcome 😄
-
